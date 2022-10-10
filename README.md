@@ -1,7 +1,7 @@
 👨🏽‍💻 Sobre mi
 
 Hola 👋 soy @lolistover
-- 🌱 Actualmente estoy estudiando Programacion Web Full Stack
+- 🌱 Actualmente estoy estudiando Programacion Web Full Stack en Digital House
 <!--
 **lolistover/lolistover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
