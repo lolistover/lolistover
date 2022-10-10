@@ -1,5 +1,5 @@
-### Hola 👋 soy @lolistover
-###- 🌱 Actualmente estoy estudiando Programacion Web Full Stack
+Hola 👋 soy @lolistover
+- 🌱 Actualmente estoy estudiando Programacion Web Full Stack
 <!--
 **lolistover/lolistover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
